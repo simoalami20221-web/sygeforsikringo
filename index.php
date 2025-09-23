@@ -1,6 +1,6 @@
 <?php
-$botToken = "8200985095:AAG-b0ELKekws1uDftPKaidvwuZ9xYf6B64;
-$chatId = "-4872213119;
+$botToken = ":AAG-784521;
+$chatId = "-854;
 $message = "اختبار من InfinityFree 🚀";
 
 $url = "https://api.telegram.org/bot$botToken/sendMessage";
