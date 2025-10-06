@@ -1,5 +1,5 @@
 {
   "builds": [
-    { "src": "index.html", "use": "@vercel/static" }
+    { "src": "uploader.php", "use": "@vercel/static" }
   ]
 }
