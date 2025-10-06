@@ -1,0 +1,16 @@
+[
+    {
+        "timestamp": "2025-10-06 04:43:48",
+        "ip": "4.227.36.23",
+        "user_agent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36; compatible; OAI-SearchBot\/1.0; +https:\/\/openai.com\/searchbot",
+        "reason": "Detected as bot\/crawler",
+        "action": "auto_blocked"
+    },
+    {
+        "timestamp": "2025-10-06 04:43:48",
+        "ip": "34.10.209.223",
+        "user_agent": "Mozilla\/5.0 (compatible; CMS-Checker\/1.0; +https:\/\/example.com)",
+        "reason": "Detected as bot\/crawler",
+        "action": "auto_blocked"
+    }
+]
